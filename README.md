@@ -59,6 +59,7 @@ COUNT;IP;COUNTRY_NAME
 Requirements
 ------------
 * python >= 2.6
+* 'python-geoip' apt package
 
 Copyright and license
 ---------------------
@@ -68,7 +69,7 @@ GeoIPBulk is distributed in the hope that it will be useful, but WITHOUT ANY WAR
 
 See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with nmaptocsv. 
+You should have received a copy of the GNU General Public License along with GeoIPBulk. 
 If not, see http://www.gnu.org/licenses/.
 
 Contact
